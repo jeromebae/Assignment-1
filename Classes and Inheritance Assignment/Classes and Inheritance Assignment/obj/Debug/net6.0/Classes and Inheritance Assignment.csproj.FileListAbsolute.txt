@@ -1,0 +1,5 @@
+C:\Users\snmor\source\repos\Classes and Inheritance Assignment\Classes and Inheritance Assignment\obj\Debug\net6.0\Classes and Inheritance Assignment.csproj.AssemblyReference.cache
+C:\Users\snmor\source\repos\Classes and Inheritance Assignment\Classes and Inheritance Assignment\obj\Debug\net6.0\Classes and Inheritance Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snmor\source\repos\Classes and Inheritance Assignment\Classes and Inheritance Assignment\obj\Debug\net6.0\Classes and Inheritance Assignment.AssemblyInfoInputs.cache
+C:\Users\snmor\source\repos\Classes and Inheritance Assignment\Classes and Inheritance Assignment\obj\Debug\net6.0\Classes and Inheritance Assignment.AssemblyInfo.cs
+C:\Users\snmor\source\repos\Classes and Inheritance Assignment\Classes and Inheritance Assignment\obj\Debug\net6.0\Classes and Inheritance Assignment.csproj.CoreCompileInputs.cache
